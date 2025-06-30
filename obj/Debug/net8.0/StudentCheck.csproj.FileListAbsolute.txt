@@ -1,0 +1,14 @@
+D:\End projects\Class activity\StudentCheck\bin\Debug\net8.0\StudentCheck.exe
+D:\End projects\Class activity\StudentCheck\bin\Debug\net8.0\StudentCheck.deps.json
+D:\End projects\Class activity\StudentCheck\bin\Debug\net8.0\StudentCheck.runtimeconfig.json
+D:\End projects\Class activity\StudentCheck\bin\Debug\net8.0\StudentCheck.dll
+D:\End projects\Class activity\StudentCheck\bin\Debug\net8.0\StudentCheck.pdb
+D:\End projects\Class activity\StudentCheck\obj\Debug\net8.0\StudentCheck.GeneratedMSBuildEditorConfig.editorconfig
+D:\End projects\Class activity\StudentCheck\obj\Debug\net8.0\StudentCheck.AssemblyInfoInputs.cache
+D:\End projects\Class activity\StudentCheck\obj\Debug\net8.0\StudentCheck.AssemblyInfo.cs
+D:\End projects\Class activity\StudentCheck\obj\Debug\net8.0\StudentCheck.csproj.CoreCompileInputs.cache
+D:\End projects\Class activity\StudentCheck\obj\Debug\net8.0\StudentCheck.dll
+D:\End projects\Class activity\StudentCheck\obj\Debug\net8.0\refint\StudentCheck.dll
+D:\End projects\Class activity\StudentCheck\obj\Debug\net8.0\StudentCheck.pdb
+D:\End projects\Class activity\StudentCheck\obj\Debug\net8.0\StudentCheck.genruntimeconfig.cache
+D:\End projects\Class activity\StudentCheck\obj\Debug\net8.0\ref\StudentCheck.dll
